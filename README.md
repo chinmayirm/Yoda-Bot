@@ -31,7 +31,7 @@ Also just because I am a massive Star Wars fan.
 | Avatar Image  | Custom-uploaded PNG  |
 | Hosting       | Google Colab / Local |
 
-Datasets used: Cornell Movie Corpus
+Datasets used: Cornell Movie Dialogues Corpus
 (https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 
 ## Setup Instructions
@@ -77,3 +77,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Author
 
 Built by Chinmayi R M just for fun ;)
+P.S. Still working on some tweaks
