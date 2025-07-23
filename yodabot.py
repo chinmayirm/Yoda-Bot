@@ -586,7 +586,7 @@ print("✅ Streamlit app saved as 'yoda_chatbot_app.py'")
 print("➡️ To run it in Colab, use:")
 print("!streamlit run yoda_chatbot_app.py & npx localtunnel --port 8501")
 
-!ngrok config add-authtoken 2jIGiWX8itjxErTlTDklcjaNnXC_51yoEom7hGoG7VFdX2DQq
+!ngrok config add-authtoken my-token-hidden
 
 import subprocess
 import time
