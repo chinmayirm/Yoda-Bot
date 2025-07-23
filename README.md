@@ -31,6 +31,9 @@ Also just because I am a massive Star Wars fan.
 | Avatar Image  | Custom-uploaded PNG  |
 | Hosting       | Google Colab / Local |
 
+Datasets used: Cornell Movie Corpus
+(https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
+
 ## Setup Instructions
 
 1. Clone the repository or download the script.
