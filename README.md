@@ -27,7 +27,7 @@ Also just because I am a massive Star Wars fan.
 |---------------|----------------------|
 | UI Framework  | Streamlit            |
 | Backend Logic | Python 3.11          |
-| LLM API       | OpenAI GPT-3.5/4     |
+| LLM           | DialoGPT-small       |
 | Avatar Image  | Custom-uploaded PNG  |
 | Hosting       | Google Colab / Local |
 
