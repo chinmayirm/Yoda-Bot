@@ -3,6 +3,11 @@ A Jedi-style introspective AI guide powered by Master Yoda's authentic dialogue 
 
 A minimal conversational AI that responds like Master Yoda. Built with Streamlit and OpenAI's GPT API, this chatbot transforms your everyday queries into Yoda-style responses. Built to encourage self-reflection, humor, and introspection through a fun interface.
 
+## Example Screenshot
+
+
+![WhatsApp Image 2025-07-23 at 13 38 15_3bda0d4d](https://github.com/user-attachments/assets/397348e9-100f-4a4e-9533-f90d140808d1)
+
 ## Features
 
 - Yoda-style grammar conversion using prompt engineering
@@ -41,7 +46,7 @@ Also just because I am a massive Star Wars fan.
 
 5. Upload your own `yoda.png` image in the root directory if needed.
 
-## Example Screenshot
+
 
 
 ## Sample Interaction
