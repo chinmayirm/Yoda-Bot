@@ -8,6 +8,10 @@ A minimal conversational AI that responds like Master Yoda. Built with Streamlit
 
 ![WhatsApp Image 2025-07-23 at 13 38 15_3bda0d4d](https://github.com/user-attachments/assets/397348e9-100f-4a4e-9533-f90d140808d1)
 
+
+
+![WhatsApp Image 2025-07-23 at 13 40 06_e04d8958](https://github.com/user-attachments/assets/fdbe3780-1d8f-4f24-8cd2-03eba68cab9a)
+
 ## Features
 
 - Yoda-style grammar conversion using prompt engineering
